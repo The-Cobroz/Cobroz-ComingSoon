@@ -12,13 +12,13 @@ section{
 }
 
 .img-container-site{
-    max-width: 100%;
+    max-width: 70%;
 }
 
 .img-container-site img{
     width: 100%;
     height: auto;
-    margin-left: 50%;
+    margin-left: 20%;
 }
 
 .img-container{
