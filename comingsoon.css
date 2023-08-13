@@ -1,0 +1,44 @@
+section{
+    padding-top: 2%;
+    background-image: linear-gradient(to bottom, #03001C, black);
+    font-family: Calibri, sans-serif;
+    color: beige;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.center{
+    padding-top: 8%;
+}
+
+.img-container-site{
+    max-width: 100%;
+}
+
+.img-container-site img{
+    width: 100%;
+    height: auto;
+    margin-left: 50%;
+}
+
+.img-container{
+    max-width: 25%;
+}
+
+.img-container img{
+    width: 100%;
+    height: auto;
+    margin-left: 150%;
+}
+
+i,a{
+    color: white;
+}
+
+footer{
+    padding: 5%;
+    background-color: #03001C;
+    font-family: monospace;
+    text-align: center;
+    color: rgb(68, 68, 68);
+}
