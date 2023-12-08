@@ -1,44 +1,93 @@
-section{
-    padding-top: 2%;
-    background-image: linear-gradient(to bottom, #03001C, black);
-    font-family: Calibri, sans-serif;
-    color: beige;
-    text-align: center;
-    padding-bottom: 5%;
+nav{
+    background-color: #03001C;
+    color: aliceblue;
+    border-bottom: solid 1px white;
 }
 
-.center{
-    padding-top: 8%;
+.logo img{
+    height: 35%;
+    width: 35%;
+    cursor: pointer;
 }
 
-.img-container-site{
-    max-width: 60%;
+.nav-item{
+    margin-right: 20%;
 }
 
-.img-container-site img{
-    width: 100%;
-    height: auto;
-    margin-left: 30%;
-}
-
-.img-container{
-    max-width: 25%;
-}
-
-.img-container img{
-    width: 100%;
-    height: auto;
-    margin-left: 150%;
-}
-
-i,a{
+li a{
     color: white;
+    text-align: center;
+}
+
+li a:hover{
+    color: white;
+}
+
+.wa-navbar{
+    margin-right: 5%;
+}
+
+.wa-button{
+    margin-left: 60%;
+    
+}
+
+/* WHATSAPP SECTION */
+
+#whatsapp{
+    background-image: url("background.jpg");
+    color: aliceblue;
+}
+
+.whatsapp{
+    text-align: center;
+    margin: 2%;
+    background-color: rgba(0,0,0,0.75);
+    border-radius: 20px;
+    padding: 2%;
+}
+
+.cobroz{
+    height: 80%;
+    width: 80%;
+}
+
+.links{
+    margin: 2%;
+}
+
+/* FEATURES SECTION */
+
+#features{
+    margin: 2%;
+    margin-left: 5%;
+}
+
+.feature-row{
+    margin-top: 2%;
+}
+
+.feature-card{
+    text-align: center;
+    padding: 2%;
+}
+
+#aboutus{
+    padding: 5%;
+    background-image: url("background.jpg");
+    color: white;
+}
+
+.aboutus{
+    padding: 2%;
+    border-radius: 20px;
+    background-color: rgba(0,0,0,0.75);
 }
 
 footer{
     padding: 5%;
-    background-color: #03001C;
+    background-color: black;
     font-family: monospace;
     text-align: center;
-    color: rgb(68, 68, 68);
+    color: rgb(68, 68, 80);
 }
