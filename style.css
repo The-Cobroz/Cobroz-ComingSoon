@@ -42,7 +42,7 @@
 
 #cobroz{
     height: 100%;
-    background-image: linear-gradient(to right, #2C3333, #0F0F0F, #191919, #000000);
+    background-image: linear-gradient(to right, #2C3333,  #191919, #0F0F0F, #000000);
     color: white;
     text-align: center;
     padding: 7% 20%;
