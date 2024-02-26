@@ -1,0 +1,93 @@
+.container .navbar{
+    background-color: #000000 !important;
+}
+
+.navbar img.logo {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 10%;
+    height: 5%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    cursor: pointer;
+    padding-right: 5%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #EFEFEF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%;
+}
+
+.navbar-nav{
+    margin-left: 10%;
+}
+/* 
+.wa-navbar{
+    margin-right: 5%;
+} */
+
+.wa-button {
+    margin-left: 60%;
+
+}
+
+/* Cobroz SECTION */
+
+#cobroz{
+    height: 100%;
+    background-image: linear-gradient(to right, #2C3333, #0F0F0F, #191919, #000000);
+    color: white;
+    text-align: center;
+    padding: 7% 20%;
+}
+
+.cobroz{
+    font-size: 10vmin;
+    margin-top: -1%;
+    margin-bottom: 3%;
+}
+/* FEATURES SECTION */
+
+#features {
+    margin: 2%;
+    margin-left: 5%;
+}
+
+.feature-row {
+    margin-top: 2%;
+}
+
+.feature-card {
+    text-align: center;
+    padding: 2%;
+}
+
+#aboutus {
+    padding: 5%;
+    background-image: linear-gradient(to left, #2C3333,
+        #0F0F0F,
+        #191919,
+        #000000);
+    color: white;
+}
+
+.aboutus {
+    padding: 2%;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.20);
+}
+
+footer {
+    padding: 5%;
+    background-color: black;
+    font-family: monospace;
+    text-align: center;
+    color: rgb(68, 68, 80);
+}
